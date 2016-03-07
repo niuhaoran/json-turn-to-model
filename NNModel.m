@@ -1,10 +1,3 @@
-//
-//  NNMOdel.m
-//  NN-xinwen
-//
-//  Created by niuhaoran on 16/2/21.
-//  Copyright © 2016年 niuhaoran. All rights reserved.
-//
 
 #import "NNMOdel.h"
 
