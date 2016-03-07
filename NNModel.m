@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d2dd7531b9309462edb67c0f888e7da76d22865
 
 #import "NNMOdel.h"
 
